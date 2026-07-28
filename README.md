@@ -4,4 +4,4 @@
 
 ## Skills
 
-- [`align-before-execution`](align-before-execution/)：在高复杂度、高歧义、高成本或高风险任务执行前，按风险等级对齐目标、范围、约束与验收标准。
+- [`align-before-execution`](align-before-execution/)：在执行复杂任务前先对齐需求
