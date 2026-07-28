@@ -5,17 +5,3 @@
 ## Skills
 
 - [`align-before-execution`](align-before-execution/)：在高复杂度、高歧义、高成本或高风险任务执行前，按风险等级对齐目标、范围、约束与验收标准。
-
-## 目录约定
-
-```text
-<skill-name>/
-├── SKILL.md
-├── agents/
-│   └── openai.yaml
-├── scripts/       # 可选
-├── references/    # 可选
-└── assets/        # 可选
-```
-
-`SKILL.md` 是 Skill 的必需文件。`agents/openai.yaml` 是面向 ChatGPT/Codex 的可选界面元数据；其他目录仅在工作流确有需要时添加。
