@@ -1,0 +1,4 @@
+interface:
+  display_name: "执行前需求对齐"
+  short_description: "按风险与歧义分级对齐关键需求，减少方向偏差与重复返工"
+  default_prompt: "Use $align-before-execution to align requirements, boundaries, and acceptance criteria before executing this task."
