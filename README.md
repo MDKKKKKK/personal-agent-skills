@@ -1,1 +1,2 @@
-# personal-agent-skills
+# 自用SKILL仓库
+该仓库包含自用的一些skill 包括自己创建的和借鉴他人的
